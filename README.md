@@ -13,7 +13,10 @@ The dataset utilized for this project was sourced from the UCI Machine Learning 
 ### Key project achievements:
 
 - Preprocessing using Bandpass and Notch filters.
-- Feature extraction using Frequency Domain (FD), Discrete Wavelet Transform (DWT), and Time-Domain & DWT fusion.
+- Feature extraction:-
+    - Frequency Domain (FD)
+    - Discrete Wavelet Transform (DWT)
+    - Time-Domain & DWT fusion.
 - Evaluation with machine learning classifiers: Random Forest (RF), K-Nearest Neighbors (KNN), and Decision Tree (DT).
 
 ## Project Flow
