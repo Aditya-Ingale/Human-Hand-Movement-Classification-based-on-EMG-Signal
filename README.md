@@ -56,5 +56,5 @@ This project successfully demonstrates the potential of EMG-based hand gesture c
 
 ## References
 
-- Dataset sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/EMG+Hand+Movement+Dataset)
+- Dataset sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/481/emg+data+for+gestures)
 - Published Paper: [Human Hand Movement Classification Based on EMG Signal Using Different Feature Extractor (Scopus Indexed)](https://biomedpharmajournal.org/vol17no1/human-hand-movement-classification-based-on-emg-signal-using-different-feature-extractor/)
